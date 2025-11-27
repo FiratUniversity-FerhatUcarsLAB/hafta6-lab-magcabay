@@ -1,6 +1,13 @@
 package Kasim14Hafta8;
 import java.util.Scanner;
+
 public class notSistemi {
+    /*
+     Ad Soyad: Miraç Özcan AĞCABAY
+     Numara: 250541002
+     Proje:Not sistemi 
+     Tarih:27.11.2025
+     */
 
     public static double calculateAverage(int vize, int fin,int odev){
         double ortalama =vize*0.3 +fin*0.4+ odev*0.3;
